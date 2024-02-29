@@ -1,0 +1,29 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "has_precipitation": true,
+  "effects": {
+    "sky_color": 7907327,
+    "fog_color": 12638463,
+    "water_color": 4159204,
+    "water_fog_color": 329011
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [
+      "liminal:cropland/farmland_placement",
+      "liminal:cropland/water_placement"
+    ],
+    [
+      "liminal:cropland/coal_ore_placement",
+      "liminal:cropland/iron_ore_placement",
+      "liminal:cropland/copper_ore_placement",
+      "liminal:cropland/lapis_ore_placement",
+      "liminal:cropland/redstone_ore_placement",
+      "liminal:cropland/gold_ore_placement",
+      "liminal:cropland/diamond_ore_placement"
+    ]
+  ]
+}

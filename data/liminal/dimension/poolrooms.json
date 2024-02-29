@@ -1,0 +1,37 @@
+{
+  "type": "liminal:poolrooms",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "liminal:poolrooms",
+      "lakes": false,
+      "features": true,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 6
+        },
+        {
+          "block": "minecraft:dark_prismarine",
+          "height": 1
+        },
+        {
+          "block": "minecraft:water",
+          "height": 1
+        },
+        {
+          "block": "minecraft:air",
+          "height": 8
+        },
+        {
+          "block": "minecraft:smooth_quartz",
+          "height": 1
+        },
+        {
+          "block": "minecraft:bedrock",
+          "height": 5
+        }
+      ]
+    }
+  }
+}

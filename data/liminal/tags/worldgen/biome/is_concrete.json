@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "liminal:concrete_beach",
+    "liminal:concrete_desert",
+    "liminal:concrete_forest",
+    "liminal:concrete_plains",
+    "liminal:concrete_snow_plains",
+    "liminal:concrete_snow_forest"
+  ]
+}

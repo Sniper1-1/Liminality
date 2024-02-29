@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:block_column",
+  "config": {
+    "direction": "up",
+    "allowed_placement": {
+      "type": "minecraft:all_of",
+      "predicates": []
+    },
+    "prioritize_tip": false,
+    "layers": [
+      {
+        "height": {
+          "type": "minecraft:biased_to_bottom",
+          "value": {
+            "min_inclusive": 1,
+            "max_inclusive": 3
+          }
+        },
+        "provider": {
+          "type": "minecraft:simple_state_provider",
+          "state": {
+            "Name": "minecraft:green_concrete"
+          }
+        }
+      }
+    ]
+  }
+}

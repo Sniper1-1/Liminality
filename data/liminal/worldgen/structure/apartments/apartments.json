@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "liminal:apartments",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "start_pool": "liminal:apartments/halls_pool",
+  "size": 7,
+  "start_height": {
+    "absolute": 6
+  },
+  "max_distance_from_center": 128,
+  "use_expansion_hack": false
+}

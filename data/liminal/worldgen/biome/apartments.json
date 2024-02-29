@@ -1,0 +1,36 @@
+{
+  "temperature": 0.8,
+  "downfall": 0.4,
+  "has_precipitation": false,
+  "effects": {
+    "sky_color": 0,
+    "fog_color": 0,
+    "water_color": 4159204,
+    "water_fog_color": 329011,
+    "grass_color_modifier": "dark_forest",
+    "mood_sound": {
+      "sound": "minecraft:block.wooden_door.close",
+      "tick_delay": 6000,
+      "block_search_extent": 10,
+      "offset": 5
+    }
+  },
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "liminal:apartments/star_placement"
+    ],
+    []
+  ]
+}

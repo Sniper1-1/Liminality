@@ -1,0 +1,20 @@
+{
+  "feature": "liminal:cropland/farmland",
+  "placement": [
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "absolute": 60
+      }
+    },
+    {
+      "type": "minecraft:noise_based_count",
+      "noise_to_count_ratio": 100,
+      "noise_factor": 2,
+      "noise_offset": 100
+    },
+    {
+      "type": "minecraft:in_square"
+    }
+  ]
+}

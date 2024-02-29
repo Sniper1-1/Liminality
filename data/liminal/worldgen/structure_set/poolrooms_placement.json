@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "liminal:poolrooms/poolrooms",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1531990848,
+    "spacing": 6,
+    "separation": 5
+  }
+}

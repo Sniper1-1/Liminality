@@ -1,0 +1,1 @@
+execute as @e at @s if dimension liminal:sculk if entity @s[y=257, dy=1] run execute in minecraft:overworld run tp @s ~ 500 ~

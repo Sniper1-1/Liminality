@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "liminal:croplands/windmill",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1766387552,
+    "frequency_reduction_method": "legacy_type_1",
+    "frequency": 0.6,
+    "spacing": 35,
+    "separation": 10
+  }
+}

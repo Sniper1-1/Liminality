@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "liminal:backrooms",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "start_pool": "liminal:backrooms_pool",
+  "size": 7,
+  "start_height": {
+    "absolute": 7
+  },
+  "max_distance_from_center": 128,
+  "use_expansion_hack": false
+}

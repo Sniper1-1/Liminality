@@ -1,0 +1,25 @@
+{
+  "type": "liminal:cropland",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "liminal:cropland",
+      "lakes": false,
+      "features": true,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 5
+        },
+        {
+          "block": "minecraft:stone",
+          "height": 45
+        },
+        {
+          "block": "minecraft:dirt",
+          "height": 10
+        }
+      ]
+    }
+  }
+}

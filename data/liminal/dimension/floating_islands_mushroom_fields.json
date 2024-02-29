@@ -1,0 +1,11 @@
+{
+  "type": "liminal:floating_islands",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "liminal:floating_islands_mushroom_fields",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "liminal:mushroom_fields"
+    }
+  }
+}

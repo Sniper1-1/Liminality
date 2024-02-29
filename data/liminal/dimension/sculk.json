@@ -1,0 +1,11 @@
+{
+  "type": "liminal:sculk",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "liminal:sculk",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "liminal:sculk"
+    }
+  }
+}

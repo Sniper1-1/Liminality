@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:logs",
+    "#minecraft:planks",
+    "#minecraft:base_stone_overworld",
+    "minecraft:netherrack",
+    "minecraft:basalt",
+    "minecraft:blackstone",
+    "minecraft:dirt",
+    "minecraft:grass_block",
+    "minecraft:podzol",
+    "minecraft:coarse_dirt",
+    "minecraft:mycelium",
+    "minecraft:rooted_dirt",
+    "minecraft:moss_block",
+    "minecraft:muddy_mangrove_roots",
+    "#minecraft:beacon_base_blocks",
+    "#minecraft:sand",
+    "minecraft:gravel",
+    "#minecraft:ice",
+    "#liminal:concrete",
+    "#liminal:concrete_powder",
+    "#minecraft:wool",
+    "#minecraft:wither_immune",
+    "#minecraft:coral_blocks",
+    "#minecraft:crystal_sound_blocks",
+    "#minecraft:impermeable",
+    "#minecraft:nylium",
+    "#minecraft:wart_blocks",
+    "#minecraft:terracotta"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fallback": "liminal:backrooms_pool",
+  "elements": [
+    {
+      "weight": 8,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "liminal:backrooms/room1",
+        "processors": "liminal:backrooms_processor"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "liminal:backrooms/room2",
+        "processors": "liminal:backrooms_processor"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "liminal:backrooms/room3",
+        "processors": "liminal:backrooms_processor"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "liminal:backrooms/room4",
+        "processors": "liminal:backrooms_processor"
+      }
+    },
+    {
+      "weight": 8,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "liminal:backrooms/room5",
+        "processors": "liminal:backrooms_processor"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "liminal:backrooms/room6",
+        "processors": "liminal:backrooms_processor"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "liminal:backrooms/room7",
+        "processors": "liminal:backrooms_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "liminal:backrooms/room8",
+        "processors": "liminal:backrooms_processor"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "liminal:backrooms/room9",
+        "processors": "liminal:backrooms_processor"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "liminal:backrooms/room10",
+        "processors": "liminal:backrooms_processor"
+      }
+    }
+  ]
+}

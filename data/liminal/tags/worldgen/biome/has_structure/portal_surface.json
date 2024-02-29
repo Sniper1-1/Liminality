@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#liminal:is_concrete",
+	"liminal:cropland",
+	"liminal:jungle",
+	"liminal:mushroom_fields"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "liminal:croplands/windmill_pool",
+  "fallback": "liminal:croplands/windmill_pool",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "liminal:croplands/windmill",
+        "processors": "minecraft:mossify_20_percent"
+      }
+    }
+  ]
+}

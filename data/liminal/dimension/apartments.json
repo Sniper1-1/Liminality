@@ -1,0 +1,93 @@
+{
+  "type": "liminal:apartments",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "liminal:apartments",
+      "lakes": false,
+      "features": true,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 5
+        },
+        {
+          "block": "minecraft:grass_block",
+          "height": 1
+        },
+        {
+          "block": "minecraft:air",
+          "height": 25
+        },
+        {
+          "block": "minecraft:black_stained_glass",
+          "height": 1
+        },
+        {
+          "block": "minecraft:air",
+          "height": 1
+        },
+        {
+          "block": "minecraft:black_stained_glass",
+          "height": 1
+        },
+        {
+          "block": "minecraft:air",
+          "height": 1
+        },
+        {
+          "block": "minecraft:black_stained_glass",
+          "height": 1
+        },
+        {
+          "block": "minecraft:air",
+          "height": 1
+        },
+        {
+          "block": "minecraft:black_stained_glass",
+          "height": 1
+        },
+        {
+          "block": "minecraft:air",
+          "height": 1
+        },
+        {
+          "block": "minecraft:black_stained_glass",
+          "height": 1
+        },
+        {
+          "block": "minecraft:air",
+          "height": 1
+        },
+        {
+          "block": "minecraft:black_stained_glass",
+          "height": 1
+        },
+        {
+          "block": "minecraft:air",
+          "height": 1
+        },
+        {
+          "block": "minecraft:black_stained_glass",
+          "height": 1
+        },
+        {
+          "block": "minecraft:air",
+          "height": 1
+        },
+        {
+          "block": "minecraft:black_stained_glass",
+          "height": 1
+        },
+        {
+          "block": "minecraft:air",
+          "height": 1
+        },
+        {
+          "block": "minecraft:bedrock",
+          "height": 5
+        }
+      ]
+    }
+  }
+}

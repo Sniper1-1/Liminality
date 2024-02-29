@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "liminal:portal/set_alt",
+      "weight": 1
+    },
+    {
+      "structure": "liminal:portal/surface",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1140034825,
+    "frequency": 0.5,
+    "spacing": 45,
+    "separation": 20
+  }
+}

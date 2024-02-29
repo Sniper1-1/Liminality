@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "liminal:apartments/apartments",
+      "weight": 9
+    },
+    {
+      "structure": "liminal:apartments/dark_apartments",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1531990848,
+    "spacing": 6,
+    "separation": 5
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "liminal:backrooms",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "liminal:backrooms",
+      "lakes": false,
+      "features": true,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 6
+        },
+        {
+          "block": "minecraft:sponge",
+          "height": 1
+        },
+        {
+          "block": "minecraft:air",
+          "height": 3
+        },
+        {
+          "block": "minecraft:smooth_stone",
+          "height": 1
+        },
+        {
+          "block": "minecraft:bedrock",
+          "height": 5
+        }
+      ]
+    }
+  }
+}
