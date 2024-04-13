@@ -2,7 +2,7 @@
   "type": "liminal:concrete",
   "generator": {
     "type": "minecraft:noise",
-    "settings": "minecraft:overworld",
+    "settings": "liminal:concrete",
     "biome_source": {
       "type": "minecraft:multi_noise",
       "biomes": [
