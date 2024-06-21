@@ -1,0 +1,1 @@
+execute as @e at @s if biome ~ ~ ~ #liminal:to_apartments if block ~ ~ ~ #minecraft:beds run execute in liminal:apartments run tp @s ~ 7 ~
