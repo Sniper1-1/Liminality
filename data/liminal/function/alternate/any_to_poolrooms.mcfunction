@@ -1,0 +1,1 @@
+execute as @e at @s if biome ~ ~ ~ #liminal:to_poolrooms if block ~ ~ ~ minecraft:water_cauldron run execute in liminal:poolrooms run tp @s ~ 7 ~ 
