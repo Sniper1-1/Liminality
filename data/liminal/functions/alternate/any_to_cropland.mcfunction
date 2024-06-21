@@ -1,1 +1,0 @@
-execute as @e at @s if biome ~ ~ ~ #liminal:to_cropland if block ~ ~.2 ~ minecraft:wheat[age=7] run execute in liminal:cropland run tp @s ~ 61 ~ 
