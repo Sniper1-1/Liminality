@@ -5,6 +5,8 @@
     "minecraft:player",
     "minecraft:vex",
     "minecraft:armor_stand",
-    "minecraft:item"
+    "minecraft:item",
+    "#liminal:is_frame",
+    "#liminal:technical_entities"
   ]
 }

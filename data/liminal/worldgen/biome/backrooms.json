@@ -10,7 +10,7 @@
   },
   "spawners": {},
   "spawn_costs": {},
-  "carvers": {},
+  "carvers": [],
   "features": [
     [
       "liminal:backrooms/wet_sponge_placement",
