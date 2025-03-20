@@ -92,7 +92,7 @@ Datapack contains several liminal spaces-inspired dimensions. A few have unique 
 </details>
 
 <details>
-<summary>Backrooms</summary>
+<summary>Sculk</summary>
 
 > Essentially an infinite Deep Dark. Reach the surface to escape.
 ![Sculk](https://imgur.com/rnZ4mEZ.png)
