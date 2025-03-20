@@ -1,5 +1,5 @@
 {
-  "fallback": "liminal:apartments/dark_rooms_pool",
+  "fallback": "liminal:apartments/terminators_pool",
   "elements": [
     {
       "weight": 10,

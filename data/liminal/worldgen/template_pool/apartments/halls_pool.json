@@ -1,6 +1,6 @@
 {
   "name": "liminal:apartments/halls_pool",
-  "fallback": "liminal:apartments/rooms_pool",
+  "fallback": "liminal:apartments/terminators_pool",
   "elements": [
     {
       "weight": 3,

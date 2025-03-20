@@ -1,0 +1,23 @@
+{
+  "fallback": "liminal:apartments/terminators_pool",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "liminal:apartments/terminators/hall_terminator_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "liminal:apartments/terminators/room_terminator_1",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
